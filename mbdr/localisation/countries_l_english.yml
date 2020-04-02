@@ -3100,5 +3100,8 @@
 ##############################################Modding_below
 
  GER_authoritarian_democratic:0 "German Empire"
- GER_authoritarian_democraticm_DEF:0 "the German Empire"
- GER_authoritarian_democraticm_ADJ:0 "German"
+ GER_authoritarian_democratic_DEF:0 "the German Empire"
+ GER_authoritarian_democratic_ADJ:0 "German"
+ GAF_authoritarian_democratic:0 "Deutsche Afrika"
+ GAF_authoritarian_democratic_DEF:0 "Deutsche Afrika"
+ GAF_authoritarian_democratic_ADJ:0 "Afrikaner"
