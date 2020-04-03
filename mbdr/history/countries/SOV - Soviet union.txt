@@ -91,11 +91,15 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 15
-	fascism = 2
-	communism = 21
-	neutrality = 62
-}
+	fascism = 0
+	authoritarian_democratic = 21
+	authoritarianism = 60
+	neutrality = 0
+	conservatism_group = 9
+	democratic = 0
+	liberalism_group = 5
+	communism = 5
+	social_democratic = 0
 
 create_country_leader = {
 	name = "Joseph Stalin"
@@ -111,9 +115,9 @@ create_country_leader = {
 create_country_leader = {
 	name = "Nicholas II"
 	desc = "POLITICS_NICHOLAS_2_DESC"
-	picture = "Portrait_Soviet_Nicholas_2.dds"
+	picture = "Portrait_Tsar_Nicholas_II.dds"
 	expire = "1953.3.1"
-	ideology = despotism
+	ideology = authoritarianism_ideology
 	traits = {
 		
 	}
