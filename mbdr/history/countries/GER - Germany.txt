@@ -114,15 +114,9 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	fascism = 35
-	authoritarian_democratic = 50
-	authoritarianism = 0
-	neutrality = 6
-	conservatism = 0
-	democratic = 0
-	liberalism = 0
-	communism = 0
-	social_democratic = 9
+	fascism = 0
+	authoritarianism = 70
+	democratic = 30
 }
 
 create_faction = Mitteleuropa
@@ -156,7 +150,7 @@ create_country_leader = {
 	desc = "POLITICS_ADOLF_HITLER_DESC"
 	picture = "Portrait_Wilhelm_II_Germany.dds"
 	expire = "1965.1.1"
-	ideology = authoritarian_democratic_ideology
+	ideology = monarchy
 	traits = {
 		dictator
 	}
