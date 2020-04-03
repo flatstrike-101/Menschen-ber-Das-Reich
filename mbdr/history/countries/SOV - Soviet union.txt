@@ -100,7 +100,8 @@ set_popularities = {
 	liberalism_group = 5
 	communism = 5
 	social_democratic = 0
-
+	}
+	
 create_country_leader = {
 	name = "Joseph Stalin"
 	desc = "POLITICS_JOSEPH_STALIN_DESC"
