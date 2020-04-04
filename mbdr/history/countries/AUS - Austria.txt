@@ -58,6 +58,17 @@ create_country_leader = {
 	}
 }
 
+create_country_leader = {
+	name = "Charles IV"
+	desc = "POLITICS_CHARLES_IV_DESC"
+	picture = "Portrait_Charles_I.dds"
+	expire = "1965.1.1"
+	ideology = monarchy
+	traits = {
+		#
+	}
+}
+
 create_corps_commander = {
 	name = "Karl Eglseer"
 	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_2.dds"
