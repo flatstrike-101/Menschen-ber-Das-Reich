@@ -9,14 +9,14 @@ set_technology = {
 }
 
 set_politics = {
-	ruling_party = authoritarian_democratic
+	ruling_party = authoritarianism
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	authoritarian_democratic = 100
+	authoritarianism = 100
 }
 
 set_convoys = 5
@@ -27,12 +27,11 @@ create_country_leader = {
 	desc = "POLITICS_KING_ZOG_DESC"
 	picture = "Portrait_Heinrich_Schnee.dds"
 	expire = "1965.1.1"
-	ideology = authoritarian_democratic_ideology
+	ideology = authoritarian_democratic
 	traits = {
 		#
 	}
 }
-
 create_country_leader = {
 	name = "Enver Hoxha"
 	desc = "POLITICS_KING_ZOG_DESC"
