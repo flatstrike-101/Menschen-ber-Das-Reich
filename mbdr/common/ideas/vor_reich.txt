@@ -1,0 +1,49 @@
+ideas = {
+
+	country = {
+		
+		dual_monarchy = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			picture = HUN_hungarian_monarchy_habsburg
+			
+			modifier = {
+				stability_weekly = 0.5
+				surrender_limit = 0.5
+				offensive_war_stability_factor = -0.5
+				planning_speed = -0.5
+			}
+		}
+		
+		trial_monarchy = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			picture = HUN_hungarian_monarchy_habsburg
+			
+			modifier = {
+				stability_weekly = 0.66
+				surrender_limit = 0.66
+				offensive_war_stability_factor = -0.66
+				planning_speed = -0.66
+			}
+		}
+	}
+}
