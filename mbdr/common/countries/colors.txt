@@ -703,8 +703,12 @@ SHL = {
 	color = rgb { 51 51 255 }
 	color_ui = rgb { 51 51 255 }
 }
-### CUSTOM
+### Modding
 GAF = {
 	color = rgb { 63 61 61 }
 	color_ui = rgb { 63 61 61 }
+}
+AUS_bohemia_hungary = {
+	color = rgb { 130 150 161 }
+	color_ui = rgb { 150 200 211 }
 }
