@@ -610,5 +610,8 @@
  authoritarianism_noun:0 "Authoritarianism"
  authoritarianism_desc:0 "Authoritarian Regime"
  monarchy:0 "Monarchism"
+ monarchy_desc:0 "A monarchy is a form of government in which a person, the monarch, is head of state for life or until abdication."
  SOV_authoritarianism_party:0 "Romanov Dynasty"
  SOV_authoritarianism_party_long:0 "Russian Imperial Family"
+ AUS_authoritarianism_party:0 "Hasburg Dynasty"
+ AUS_authoritarianism_party_long:0 "Austrian Imperial Family"
