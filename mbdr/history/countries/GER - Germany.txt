@@ -2,6 +2,9 @@
 
 oob = "GER_1936"
 
+puupet = DES
+puppet = GAF
+
 set_fuel_ratio = 0.8
 
 # Starting tech
