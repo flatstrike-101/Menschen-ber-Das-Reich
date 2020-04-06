@@ -59,7 +59,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Charles IV"
+	name = "Charles I"
 	desc = "POLITICS_CHARLES_IV_DESC"
 	picture = "Portrait_Charles_I.dds"
 	expire = "1965.1.1"
