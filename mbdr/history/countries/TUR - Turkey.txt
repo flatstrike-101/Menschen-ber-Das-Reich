@@ -165,7 +165,7 @@ set_stability = 0.55
 	create_country_leader = {
 		name = "Abdulmejid II"
 		desc = "POLITICS_ISMET_INÖNÜ_DESC"
-		picture = "Portrait_Turkey_Ismet_Inonu.dds"
+		picture = "Abdlumejd_II_Leader_Portrait.dds"
 		expire = "1965.1.1"
 		ideology = monarchy
 		traits = {
@@ -204,6 +204,17 @@ create_country_leader = {
 		#
 	}
 }
+
+create_country_leader = {
+		name = "Abdulmejid II"
+		desc = "POLITICS_ISMET_INÖNÜ_DESC"
+		picture = "Abdlumejd_II_Leader_Portrait.dds"
+		expire = "1965.1.1"
+		ideology = monarchy
+		traits = {
+			#
+		}
+	}
 
 create_country_leader = {
 	name = "Sefik Hüsnü"
