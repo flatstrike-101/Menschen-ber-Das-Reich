@@ -108,9 +108,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Hellmuth von Mucke"
+	name = "Hellmuth von Mücke"
 	desc = "POLITICS_NICHOLAS_2_DESC"
-	picture = "Portrait_Tsar_Nicholas_II.dds"
+	picture = "Portrait_GER_Hellmuth_Von_Mucke.dds"
 	expire = "1953.3.1"
 	ideology = authoritarian_democratic
 	traits = {
