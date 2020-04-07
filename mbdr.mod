@@ -16,6 +16,6 @@ tags={
 	"Utilities"
 	"Technologies"
 }
-name="Vor Reich"
+name="Das Volk Vor Dem Reich"
 supported_version="1.9.0"
 path="mod/mbdr"
