@@ -117,7 +117,6 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	fascism = 0
 	authoritarianism = 70
 	democratic = 30
 }
@@ -142,7 +141,7 @@ create_country_leader = {
 	desc = "POLITICS_ADOLF_HITLER_DESC"
 	picture = "Portrait_Erich_Ludendorff_Germany.dds"
 	expire = "1965.1.1"
-	ideology = nazism
+	ideology = authoritarianism
 	traits = {
 		dictator
 	}
